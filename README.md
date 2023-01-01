@@ -2,7 +2,7 @@
 - 👀 I’m interested in krunker and fnf
 - 🌱 I’m currently learning how to make maps for krunker
 - 💞️ I’m looking to collaborate on making a map for krunker
-- 📫 How to reach me gamingwithmari6982gmail.com
+- 📫 How to reach me gamingwithmari698gmail.com
 
 <!---
 Dexicode123/Dexicode123 imma ✨ special ✨ repository because its `README.md` (this file lol) appears on my GitHub profile.
